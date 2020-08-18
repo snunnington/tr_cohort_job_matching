@@ -4,7 +4,8 @@
 
 <h2>Tech Returners</h2>
 
-<p>This is very rusty code:</p>
+<p>This is very rusty code, i'm trying to establish different groups and then apply 0 to 100 as specified.
+</p>
 
 
 
@@ -17,7 +18,7 @@ function myFunction() {
 }
 else “backend developer” “cloud experience” “AWS certified” > 100
 
-
+if else "wants to work remote" "AWS Certified" > 0
 
 
 
