@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Tech Returners</h2>
+
+<p>This is very rusty code:</p>
+
+
+
+<script>
+function myFunction() {
+     job A ( “remote” “flexible working hours”) 
+     job B ( “office based two days per week” “react developer”);
+
+ If  “wants to work remote” “react experience” “looking for frontend” > 100
+}
+else “backend developer” “cloud experience” “AWS certified” > 100
+
+
+
+
+
+if (remote,  ) {
+    ...
+} else {
+    if (backend, ) {
+        ...
+    } else ( flexible{
+        ...
+    }
+}
+</body>
+</html>
+
+
+
+
+
+function job A ( “remote” “flexible working hours”) 
+Job B ( “office based two days per week” “react developer”){
+
+
+console.log(arguments[remote]);
+  
+
+  console.log(arguments[flexible working hours]);
+  
+
+  console.log(arguments[office based two days per week]);
+
+  console.log(arguments[react developer]
+  
+}
+
+  if  Individual A skills/characteristics: “wants to work remote” “react experience” “looking for frontend”
+Individual B skills/characteristics: “backend developer” “cloud experience” “AWS certified”
